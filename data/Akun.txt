@@ -1,0 +1,3 @@
+Superadmin
+email: admin@gotosovie.com
+pass : admin

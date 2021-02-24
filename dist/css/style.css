@@ -1,0 +1,182 @@
+.tambah-data {
+	padding-top: 20px;
+	padding-left: 10px;
+}
+.tambah-data a {
+	font-weight: 600;
+}
+.title-cari-produk {
+	font-size: 25px;
+	font-weight: 500;
+	padding-right: 5px;
+	color: #007bff;
+}
+.btn-transaksi {
+	padding-top: 10px;
+}
+
+.table-nominal  {
+	position: relative;
+}
+.table-nominal span {
+	font-size: 20px;
+}
+.table-nominal span:nth-child(1) {
+	position: absolute;
+	left: 10px;
+	font-weight: 600;
+}
+.table-nominal span:nth-child(2) {
+	padding-left: 35px;
+}
+.table-nominal input {
+	border: none;
+	padding-left: 10px;
+}
+.table-nominal.tn input {
+	border: 1px solid #999 !important;
+}
+
+.cari-barang-parent {
+	padding-top: 10px;
+	text-align: right;
+}
+.card-invoice span {
+	font-size: 30px;
+	font-weight: 600;
+}
+.card-invoice input {
+	border: none;
+	font-size: 30px;
+}
+
+.filter-customer select {
+	width: 70%;
+}
+.invoice-table .table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: none !important;
+}
+
+.payment {
+	padding-left: 35px;
+}
+
+
+/* ================================================== Nota ====================================== */
+
+.nota {
+	font-family: "Roboto", sans-serif;
+	margin: 10px;
+}
+.nota-box-title {
+	text-align: center;
+	padding-top: 10px;
+}
+.nbt-parent {
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 1.3;
+}
+.nbt-contact {
+	margin-top: -10px;
+}
+.nbt-contact ul {
+	margin-left: -25px;
+}
+.nbt-contact ul li {
+	list-style-type: none;
+	display: inline-flex;
+	font-size: 11px;
+	color: #666;
+	padding-right: 15px;
+}
+.nota-box-title {
+	border-bottom: dotted;
+	border-color: #999;
+}
+.nota-box-info {
+	border-bottom: 2px solid #999;
+	padding-bottom: 5px;
+	padding-left: 15px;
+
+}
+.nbi-text-parent {
+	font-size: 12px;
+	line-height: 1.3;
+	padding: 5px 0px 1px 5px;
+}
+.nbi-text-2 {
+	/*padding-left: 15px;*/
+}
+
+.nota-box-table {
+	border-bottom: dotted;
+	border-color: #999;
+}
+.nota-box-table table {
+	margin-bottom: -1px;
+}
+.nota-box-table .table td, 
+.nota-box-table .table th {
+    padding: 3px;
+    font-size: 13px;
+    border: none;
+}
+
+.nota-box-text {
+	padding: 8px 0px 8px 5px;
+	font-size: 13px;
+	border-bottom: dotted;
+	border-color: #999;
+}
+.nota-box-footer {
+	padding-top: 8px;
+	text-align: center;
+	font-size: 13px;
+}
+.nbf-url {
+	color: #007bff;
+}
+.col-padding {
+	padding: 0px;
+}
+
+
+
+/* ============================================== Penjualan ============================== */
+.table-auto {
+	overflow-x: auto;
+}
+.table-informasi {
+	margin: 40px 10px;
+}
+.table.table-sebelumnya td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #fff;
+}
+.table-sebelumnya-box {
+	border: 1px solid #eaeaea;
+	border-radius: 10px;
+	padding: 15px;
+	max-width: 380px;
+}
+.td-edit-transaksi span {
+	display: inline-flex;
+}
+
+/* ======================================= Transaksi =====================================*/
+.edit-transaksi-detail-title {
+	text-align: center;
+}
+.edit-transaksi-detail-title p {
+	font-size: 30px;
+	font-weight: 600;
+}
+
+/* ======================================== Pembelian ==================================== */
+.keranjang-right {
+	float: right !important;
+}
